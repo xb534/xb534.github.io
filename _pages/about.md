@@ -36,7 +36,7 @@ SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation
 
 **Bin Xie**, Jiale Cao, Jin Xie, Fahad Shahbaz Khan,  Yanwei Pang
 
-- SED achieves a better trade-off between accuracy and performance for open-vocabulary semantic segmentation by utilizing the simple yet efficient CER module.
+- <strong style="color:green"> SED achieves a better trade-off between accuracy and performance for open-vocabulary semantic segmentation by utilizing the simple yet efficient CER module.</strong>
 </div>
 </div>
 
