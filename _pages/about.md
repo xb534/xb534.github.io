@@ -20,7 +20,7 @@ From 2022 to present, I am a Master's Student at the School of Electrical and In
 
 From 2023 to present, I am a research intern at Foundation model group in MEGVII Technology, supervised by [Tiancai Wang](https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN) and [Yingfei Liu](https://scholar.google.com.hk/citations?user=pF9KA1sAAAAJ&hl=zh-CN).
 
-My current research interests are in the areas of (1) semantic segmentation, (2) autonomous driving and  (3) video generation.
+My current research interests are in the areas of (1) **semantic segmentation**, (2) **autonomous driving** and  (3) **video generation**.
 
 
 # 🔥 News
@@ -32,11 +32,7 @@ My current research interests are in the areas of (1) semantic segmentation, (2)
 <div class='paper-box-text' markdown="1">
 
 SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation
-
-| CVPR2024
-| [Paper](https://arxiv.org/abs/2311.15537)
-| [Code](https://github.com/xb534/SED)
-|
+|**CVPR2024**|[Paper](https://arxiv.org/abs/2311.15537)|[Code](https://github.com/xb534/SED)|
 
 **Bin Xie**, Jiale Cao, Jin Xie, Fahad Shahbaz Khan,  Yanwei Pang
 
