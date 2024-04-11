@@ -24,6 +24,7 @@ My current research interests are in the areas of (1) **semantic segmentation**,
 
 
 # 🔥 News
+- **2024.04**: I am actively pursuing PhD program opportunities for the Fall of 2025. Should my work align with your interests, I warmly invite you to get in touch with me.
 - *2024.02*: One paper(SED) is accepted by CVPR2024.
 
 # Publications 
@@ -36,7 +37,7 @@ SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation
 
 **Bin Xie**, Jiale Cao, Jin Xie, Fahad Shahbaz Khan,  Yanwei Pang
 
-- <strong style="color:green"> SED achieves a better trade-off between accuracy and performance for open-vocabulary semantic segmentation by utilizing the simple yet efficient CER module.</strong>
+- <strong style="color:green"> By utilizing the simple yet efficient CER module, SED achieves a better trade-off between accuracy and performance for open-vocabulary semantic segmentation.</strong>
 </div>
 </div>
 
