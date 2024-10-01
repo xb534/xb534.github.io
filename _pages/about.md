@@ -20,7 +20,7 @@ From 2022 to present, I am a Master's Student at the School of Electrical and In
 
 From 2023 to present, I am a research intern at Foundation model group in MEGVII Technology, supervised by [Tiancai Wang](https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN) and [Yingfei Liu](https://scholar.google.com.hk/citations?user=pF9KA1sAAAAJ&hl=zh-CN).
 
-My current research interests are in the areas of (1) **semantic segmentation**, (2) **autonomous driving** and  (3) **video generation**.
+My current research interests are in the areas of (1) **Embodied AI**, (2) **autonomous driving** and  (3) **semantic segmentation**.
 
 
 # 🔥 News
@@ -54,6 +54,9 @@ Multi-Query and Multi-Level Enhanced Network for Semantic Segmentation
 </div>
 </div>
 
+# Service
+Invited Reviewer for conferences:
+- ICLR 2025
 <!-- # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
