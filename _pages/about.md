@@ -57,10 +57,3 @@ Multi-Query and Multi-Level Enhanced Network for Semantic Segmentation
 # Service
 Invited Reviewer for conferences:
 - ICLR 2025
-<!-- # Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-
-<!-- # Internships
-- *2023.12 - present*, [Lorem](https://github.com/), China. -->
