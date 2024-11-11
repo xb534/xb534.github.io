@@ -24,6 +24,8 @@ My current research interests are in the areas of (1) **Embodied AI**, (2) **aut
 
 
 # 🔥 News
+- *2024.11*: I’m awarded National Scholarship!
+
 - *2024.07*: One paper(QLSeg) is accepted by Pattern Recognition.
 <!-- - **2024.04**: I am actively pursuing PhD program opportunities for the Fall of 2025. Should my work align with your interests, I warmly invite you to get in touch with me. -->
 - *2024.02*: One paper(SED) is accepted by CVPR2024.
@@ -57,3 +59,6 @@ Multi-Query and Multi-Level Enhanced Network for Semantic Segmentation
 # Service
 Invited Reviewer for conferences:
 - ICLR 2025
+  
+Invited Reviewer for journals:
+- Pattern Recognition (PR)
