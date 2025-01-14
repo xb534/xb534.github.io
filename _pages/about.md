@@ -16,14 +16,17 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-From 2022 to present, I am a Master's Student at the School of Electrical and Information Engineering, Tianjin University, advised by Associate Prof. [Jiale Cao](https://jialecao001.github.io/).
+From 2022 to January 2025, I pursued my Master's degree at the School of Electrical and Information Engineering, Tianjin University, under the supervision of Associate Prof. [Jiale Cao](https://jialecao001.github.io/).
 
-From 2023 to present, I am a research intern at Foundation model group in MEGVII Technology, supervised by [Tiancai Wang](https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN) and [Yingfei Liu](https://scholar.google.com.hk/citations?user=pF9KA1sAAAAJ&hl=zh-CN).
+Since January 2025, I have been working as a Researcher in the Foundation Model Group at MEGVII Technology.
 
-My current research interests are in the areas of (1) **Embodied AI**, (2) **autonomous driving** and  (3) **semantic segmentation**.
+My research interests primarily focus on three areas: (1) **Embodied AI**, (2) **Video Generation**, and (3) **Autonomous Driving**.
 
+<!-- From 2023 to Jan. 2025, I am a research intern at Foundation model group in MEGVII Technology, supervised by [Tiancai Wang](https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN) and [Yingfei Liu](https://scholar.google.com.hk/citations?user=pF9KA1sAAAAJ&hl=zh-CN). -->
 
 # 🔥 News
+- *2025.01*: We are hiring research interns all year round, please feel free to drop me your resume at bin_xie@tju.edu.cn.
+
 - *2024.11*: I’m awarded National Scholarship!
 
 - *2024.07*: One paper(QLSeg) is accepted by Pattern Recognition.
