@@ -27,6 +27,8 @@ My research interests primarily focus on three areas: (1) **Embodied AI**, (2) *
 # 🔥 News
 - *2025.01*: We are hiring research interns all year round, please feel free to drop me your resume at bin_xie@tju.edu.cn.
 
+- *2025.01*: One paper(Glad) is accepted by ICLR2025.
+
 - *2024.11*: I’m awarded National Scholarship!
 
 - *2024.07*: One paper(QLSeg) is accepted by Pattern Recognition.
