@@ -18,14 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 From 2022 to January 2025, I pursued my Master's degree at the School of Electrical and Information Engineering, Tianjin University, under the supervision of Associate Prof. [Jiale Cao](https://jialecao001.github.io/).
 
-Since January 2025, I have been working as a Researcher in the Foundation Model Group at MEGVII Technology.
+Since January 2025, I have been working as a Researcher in the Foundation Model Group at MEGVII Technology. We are hiring research interns all year round, please feel free to drop me your resume at bin_xie@tju.edu.cn.
 
 My research interests primarily focus on three areas: (1) **Embodied AI**, (2) **Video Generation**, and (3) **Autonomous Driving**.
 
 <!-- From 2023 to Jan. 2025, I am a research intern at Foundation model group in MEGVII Technology, supervised by [Tiancai Wang](https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN) and [Yingfei Liu](https://scholar.google.com.hk/citations?user=pF9KA1sAAAAJ&hl=zh-CN). -->
 
 # 🔥 News
-- *2025.01*: We are hiring research interns all year round, please feel free to drop me your resume at bin_xie@tju.edu.cn.
 
 - *2025.01*: One paper(Glad) is accepted by ICLR2025.
 
@@ -36,6 +35,18 @@ My research interests primarily focus on three areas: (1) **Embodied AI**, (2) *
 - *2024.02*: One paper(SED) is accepted by CVPR2024.
 
 # Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/papers/glad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Glad: A Streaming Scene Generator for Autonomous Driving
+|**ICLR2025**|[Paper](https://xb534.github.io/)|
+
+**Bin Xie**, Yingfei Liu, Tiancai Wang, Jiale Cao, Xiangyu Zhang
+
+- <strong style="color:green"> Glad is an efficient framework for generating video data in autonomous driving scenarios. It produces temporally coherent videos frame-by-frame, serving as a robust baseline for data synthesis and simulation in autonomous driving.</strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/sed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,7 +74,7 @@ Multi-Query and Multi-Level Enhanced Network for Semantic Segmentation
 
 # Service
 Invited Reviewer for conferences:
-- ICLR 2025
+- ICLR 2025, ICCV 2025
   
 Invited Reviewer for journals:
 - Pattern Recognition (PR)
