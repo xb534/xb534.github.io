@@ -22,7 +22,6 @@ Since January 2025, I have been working as a Researcher in the Foundation Model 
 
 My research interests primarily focus on three areas: (1) **Embodied AI**, (2) **Video Generation**, and (3) **Autonomous Driving**.
 
-<!-- From 2023 to Jan. 2025, I am a research intern at Foundation model group in MEGVII Technology, supervised by [Tiancai Wang](https://scholar.google.com.hk/citations?user=YI0sRroAAAAJ&hl=zh-CN) and [Yingfei Liu](https://scholar.google.com.hk/citations?user=pF9KA1sAAAAJ&hl=zh-CN). -->
 
 # 🔥 News
 
@@ -36,6 +35,20 @@ My research interests primarily focus on three areas: (1) **Embodied AI**, (2) *
 
 # Publications 
 
+## Preprint Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/geovla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+GeoVLA: Empowering 3D Representations in Vision-Language-Action Models
+|[Paper](https://arxiv.org/abs/2508.09071)|[Demo](https://linsun449.github.io/GeoVLA/)
+
+Lin Sun, **Bin Xie**, Yingfei Liu, Hao Shi, Tiancai Wang, Jiale Cao
+
+- <strong style="color:green"> GeoVLA is a vision-language-action framework that integrates 3D geometry for better robotic manipulation. It fuses image-language data with point cloud features to enhance spatial awareness, achieving state-of-the-art performance and robustness in simulation and real-world tasks. </strong>
+</div>
+</div>
+
+## Published Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/papers/glad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
