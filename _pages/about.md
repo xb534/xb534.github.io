@@ -18,10 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 From 2022 to January 2025, I pursued my Master's degree at the School of Electrical and Information Engineering, Tianjin University, under the supervision of Associate Prof. [Jiale Cao](https://jialecao001.github.io/).
 
-Since January 2025, I have been working as a Researcher in the Foundation Model Group at MEGVII Technology. We are hiring research interns all year round, please feel free to drop me your resume at bin_xie@tju.edu.cn.
+Since January 2025, I have been working as a Researcher in the Foundation Model Group at MEGVII Technology. 
 
-My research interests primarily focus on three areas: (1) **Embodied AI**, (2) **Video Generation**, and (3) **Autonomous Driving**.
+My research interests primarily focus on three areas: (1) **Robotics**, and (2) **Multi-Modal**.
 
+<span style="color: red;">We are hiring research interns all year round, please feel free to drop me your resume at bin_xie@tju.edu.cn.</span>
 
 # 🔥 News
 
@@ -36,6 +37,18 @@ My research interests primarily focus on three areas: (1) **Embodied AI**, (2) *
 # Publications 
 
 ## Preprint Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/memoryvla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation
+|[Paper](https://arxiv.org/abs/2508.19236)|[Demo](https://shihao1895.github.io/MemoryVLA/)
+
+Hao Shi, **Bin Xie**, Yingfei Liu, Lin Sun, Fengrong Liu, Tiancai Wang, Erjin Zhou, Haoqiang Fan, Xiangyu Zhang, Gao Huang
+
+- <strong style="color:green"> MemoryVLA is a Cognition-Memory-Action framework for long-horizon robotic manipulation inspired by human working memory and hippocampal systems. It uses a Perceptual-Cognitive Memory Bank to store temporal context and adaptively fuses past experience with current observations for temporally aware action generation. </strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/geovla.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
