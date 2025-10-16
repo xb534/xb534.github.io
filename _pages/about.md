@@ -100,7 +100,8 @@ Multi-Query and Multi-Level Enhanced Network for Semantic Segmentation
 
 # Service
 Invited Reviewer for conferences:
-- ICLR 2025, ICCV 2025
+- ICLR 2026, CVPR 2026
+- ICLR 2025
   
 Invited Reviewer for journals:
 - Pattern Recognition (PR)
