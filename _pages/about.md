@@ -25,6 +25,7 @@ My research interests primarily focus on three areas: (1) **Robotics**, and (2) 
 <span style="color: red;">We are hiring research interns all year round, please feel free to drop me your resume at bin_xie@tju.edu.cn.</span>
 
 # 🔥 News
+- *2025.10*: One paper(SED++) is accepted by IEEE TPAMI 2025.
 
 - *2025.01*: One paper(Glad) is accepted by ICLR2025.
 
