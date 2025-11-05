@@ -20,7 +20,7 @@ From 2022 to January 2025, I pursued my Master's degree at the School of Electri
 
 Since January 2025, I have been working as a Researcher in the Foundation Model Group at MEGVII Technology. 
 
-My research interests primarily focus on three areas: (1) **Robotics**, and (2) **Multi-Modal**.
+My research interests primarily focus on three areas: (1) **Robotics**, (2) **Multi-Modal**, and (3)**RL**.
 
 <span style="color: red;">We are hiring research interns all year round, please feel free to drop me your resume at bin_xie@tju.edu.cn.</span>
 
@@ -32,8 +32,6 @@ My research interests primarily focus on three areas: (1) **Robotics**, and (2) 
 - *2024.11*: I’m awarded National Scholarship!
 
 - *2024.07*: One paper(QLSeg) is accepted by Pattern Recognition.
-<!-- - **2024.04**: I am actively pursuing PhD program opportunities for the Fall of 2025. Should my work align with your interests, I warmly invite you to get in touch with me. -->
-- *2024.02*: One paper(SED) is accepted by CVPR2024.
 
 # Publications 
 
