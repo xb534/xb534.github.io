@@ -25,26 +25,14 @@ My research interests primarily focus on three areas: (1) **Robotics**, (2) **Mu
 <span style="color: red;">We are hiring research interns all year round, please feel free to drop me your resume at bin_xie@tju.edu.cn.</span>
 
 # 🔥 News
+- *2026.01*: One paper (MemoryVLA) by ICLR 2026. Congratulations to [@Hao Shi](https://shihao1895.github.io/) !
 - *2025.11*: One paper (SpatialActor) is accepted by AAAI 2026 (Oral). Congratulations to [@Hao Shi](https://shihao1895.github.io/) !
 - *2025.10*: One paper (SED++) is accepted by IEEE TPAMI 2025.
 - *2025.01*: One paper (Glad) is accepted by ICLR 2025.
-- *2024.11*: I'm awarded National Scholarship!
 
 # Publications 
 
 ## Preprint Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/memoryvla.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation<br>
-[Paper](https://arxiv.org/abs/2508.19236) | [Demo](https://shihao1895.github.io/MemoryVLA/)
-
-Hao Shi, **Bin Xie**, Yingfei Liu, Lin Sun, Fengrong Liu, Tiancai Wang, Erjin Zhou, Haoqiang Fan, Xiangyu Zhang, Gao Huang
-
-- <strong style="color:green"> MemoryVLA is a Cognition-Memory-Action framework for long-horizon robotic manipulation inspired by human working memory and hippocampal systems. It uses a Perceptual-Cognitive Memory Bank to store temporal context and adaptively fuses past experience with current observations for temporally aware action generation. </strong>
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/geovla.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,6 +46,18 @@ Lin Sun, **Bin Xie**, Yingfei Liu, Hao Shi, Tiancai Wang, Jiale Cao
 </div>
 
 ## Published Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/memoryvla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation<br>
+[Paper](https://arxiv.org/abs/2508.19236) | [Demo](https://shihao1895.github.io/MemoryVLA/)
+
+Hao Shi, **Bin Xie**, Yingfei Liu, Lin Sun, Fengrong Liu, Tiancai Wang, Erjin Zhou, Haoqiang Fan, Xiangyu Zhang, Gao Huang
+
+- <strong style="color:green"> MemoryVLA is a Cognition-Memory-Action framework for long-horizon robotic manipulation inspired by human working memory and hippocampal systems. It uses a Perceptual-Cognitive Memory Bank to store temporal context and adaptively fuses past experience with current observations for temporally aware action generation. </strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Oral)</div><img src='images/papers/spatial_actor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -107,8 +107,9 @@ Multi-Query and Multi-Level Enhanced Network for Semantic Segmentation<br>
 
 # Service
 Invited Reviewer for conferences:
-- ICLR 2026, CVPR 2026
+- ICLR 2026, CVPR 2026, ECCV 2026
 - ICLR 2025
   
 Invited Reviewer for journals:
+- International Journal of Computer Vision (IJCV)
 - Pattern Recognition (PR)
