@@ -16,16 +16,16 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-From 2022 to January 2025, I pursued my Master's degree at the School of Electrical and Information Engineering, Tianjin University, under the supervision of Associate Prof. [Jiale Cao](https://jialecao001.github.io/).
+From 2022 to January 2025, I pursued my Master's degree at the School of Electrical and Information Engineering, Tianjin University, under the supervision of Associate Prof. [Jiale Cao](https://seea.tju.edu.cn/info/1014/2183.htm).
 
 Since January 2025, I have been working as a Researcher in the Foundation Model Group at MEGVII Technology. 
 
 My research interests primarily focus on three areas: (1) **Robotics**, (2) **Multi-Modal**, and (3) **RL**.
 
-<span style="color: red;">We are hiring research interns all year round, please feel free to drop me your resume at bin_xie@tju.edu.cn.</span>
+<span style="color: red;">We are hiring research interns all year round, please feel free to drop me your resume at xiebin@dexmal.com.</span>
 
 # 🔥 News
-- *2026.01*: One paper (MemoryVLA) by ICLR 2026. Congratulations to [@Hao Shi](https://shihao1895.github.io/) !
+- *2026.01*: One paper (MemoryVLA) is accepted by ICLR 2026. Congratulations to [@Hao Shi](https://shihao1895.github.io/) !
 - *2025.11*: One paper (SpatialActor) is accepted by AAAI 2026 (Oral). Congratulations to [@Hao Shi](https://shihao1895.github.io/) !
 - *2025.10*: One paper (SED++) is accepted by IEEE TPAMI 2025.
 - *2025.01*: One paper (Glad) is accepted by ICLR 2025.
